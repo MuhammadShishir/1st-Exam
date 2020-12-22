@@ -1,0 +1,41 @@
+table{
+	font-family: Tahoma;
+	margin: 0 auto;
+	text-align: center;
+}
+caption{
+	font-family: Tahoma;
+	background-color: lavender;
+  	border: none;
+  	color: grey;
+  	text-align: center;
+  	font-size: 16px; 	
+}
+button{
+	font-family: Tahoma;
+	background-color: lavender;
+  	border: none;
+  	color: grey;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+	margin: 0;
+	position: absolute;
+  	top: 90%;
+  	left: 50%;
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+}
+p{
+	font-family: Tahoma;
+	font-size: 16px;
+}
+h1{
+	font-family: Tahoma;
+	color: purple;
+}
+h3{
+	font-family: Tahoma;
+}
